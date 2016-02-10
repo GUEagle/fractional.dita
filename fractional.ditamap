@@ -39,7 +39,9 @@
         <topicref href="workflow/postwork.dita"/>
         <topicref href="workflow/attention.dita"/>
     </chapter>
-    <chapter href="specification.dita"/>
+    <chapter href="specification.dita">
+        <topicref href="specification/specification.dita"/>
+    </chapter>
     <chapter href="keep.dita"/>
     <chapter href="maintenance.dita"/>
 </bookmap>
