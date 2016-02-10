@@ -42,6 +42,8 @@
     <chapter href="specification.dita">
         <topicref href="specification/specification.dita"/>
     </chapter>
-    <chapter href="keep.dita"/>
+    <chapter href="keep.dita">
+        <topicref href="keep/keep.dita"/>
+    </chapter>
     <chapter href="maintenance.dita"/>
 </bookmap>
