@@ -2,23 +2,4 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
 <topic id="keep">
   <title>运输贮存条件</title>
-  <body>
-    <ol>
-      <li>
-        <p>仪器运输环境要求温度5℃-50℃，相对湿度≤80%，空气质量良好。</p>
-      </li>
-      <li>
-        <p>搬运仪器前，必须将图形发生器、导光臂等各配件拆卸下来放入包装箱内保存好，以防损坏。</p>
-      </li>
-      <li>
-        <p>本仪器为精密仪器，移动和运输中应当避免强烈振动和冲击，严禁倒置，避免损坏仪器内的系统及电子器件。</p>
-      </li>
-      <li>
-        <p>在没有外防尘包装时，请勿在有尘埃的环境中移动或搬运本仪器。</p>
-      </li>
-      <li>
-        <p>搬运过程中不可拖吊加持，须托底搬运。</p>
-      </li>
-    </ol>
-  </body>
 </topic>
