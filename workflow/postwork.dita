@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="workflow.postwork">
+  <title>操作后</title>
+  <body>
+    <ol>
+      <li>
+        <p>将操作时所用的参数，术中、术后反应做好记录。</p>
+      </li>
+      <li>
+        <p>返回待机状态后，逆时针旋转钥匙至关闭状态，切断电源，清洁治疗投，将仪器归于原位（根据情况将钥匙存放于合适的位置或交专人保管）。</p>
+      </li>
+      <li>
+        <p>嘱咐患者术后护理，约定下次治疗时间，并定期的回访和跟踪。</p>
+      </li>
+    </ol>
+  </body>
+</topic>

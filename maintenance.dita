@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="maintenance">
+  <title>日常保养维护</title>
+  <body>
+    <ol>
+      <li>
+        <p>每次操作完成后把电脑图形发生器放于托架上或安全的位置，防止跌落损坏。</p>
+      </li>
+      <li>
+        <p>不要用占有汽油、酒精、稀释剂或化学制剂的物品碰触机箱表面，因为这样会使机箱表面涂层剥落。</p>
+      </li>
+      <li>
+        <p>清洁仪器表面及治疗室时，请注意不要扬起灰尘，以免其进入仪器内部，影响光学系统正常工作。</p>
+      </li>
+      <li>
+        <p>本仪器不使用时，请将仪器钥匙取下，关闭紧急开关，并且由专人保管钥匙，防止意外发生。</p>
+      </li>
+      <li>
+        <p>本仪器内部结构复杂，切勿私自拆卸，发生故障时请务必与本公司售后服务部门联系。</p>
+      </li>
+      <li>
+        <p>为了保证仪器的正常使用，仪器备件的购买或更换，请直接与厂家或代理商联系。</p>
+      </li>
+    </ol>
+  </body>
+</topic>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="operation.ui.general">
+  <title>普通模式</title>
+  <body>
+    <p>普通模式界面如下图所示。</p>
+    <p>
+      <image href="media/image/operation.ui.general.JPG"/>
+    </p>
+    <p>医生可通过调节上图中的各项参数来满足所需的治疗要求。</p>
+    <ol>
+      <li>
+        <p>功率</p>
+        <p>设置焦斑功率，医生应当根据治疗需要选择合适的功率，建议试做时从小到大调节，直至达到需要的效果。</p>
+      </li>
+      <li>
+        <p>工作方式</p>
+        <p>设置工作方式，医生应当根据治疗需要选择单次、连续或脉冲方式。</p>
+      </li>
+      <li>
+        <p>脉冲宽度</p>
+        <p>设置单次工作时的出光脉冲宽度。</p>
+      </li>
+      <li>
+        <p>开始时间</p>
+        <p>设置脉冲工作时的出光脉冲宽度。</p>
+      </li>
+      <li>
+        <p>关闭时间</p>
+        <p>设置脉冲工作时的关光脉冲宽度。</p>
+      </li>
+      <li>
+        <p>待机</p>
+        <p>待机状态脚踏开关不会触发激光器，除非准备好进行治疗，否则请始终保持在待机状态。</p>
+      </li>
+      <li>
+        <p>准备</p>
+        <p>准备状态脚踏开关触发激光器，进行治疗。</p>
+      </li>
+    </ol>
+  </body>
+</topic>

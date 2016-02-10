@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="setup.setup">
+  <title>安装程序</title>
+  <body>
+    <ol>
+      <li>
+        <p>将美容仪取出，放置在水平地面上，保持机身稳定，注意使电脑图形发生器信号线保持松弛状态。</p>
+      </li>
+      <li>
+        <p>将导光臂取出，安装在导光臂底座上，旋紧压环，确保固定牢固。光路系统已在仪器出厂前由专业人员校准完成，无需进行其它调整。</p>
+      </li>
+      <li>
+        <p>连接导光臂和手具，根据需要将导光臂与电脑图形发生器或连续治疗头连接，确保固定牢固。</p>
+      </li>
+      <li>
+        <p>连接脚踏开关，将信号线插头插入机箱右侧底部的插座内，确保连接牢固。</p>
+      </li>
+      <li>
+        <p>连接电源线，将电源线插头插入机箱右侧底部的插座内，确保连接牢固。</p>
+      </li>
+    </ol>
+  </body>
+</topic>

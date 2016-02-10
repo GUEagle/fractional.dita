@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="operation.poweron">
+  <title>开机</title>
+  <body>
+    <p>检查急停开关处于弹起状态，若未弹起则将急停开关顺时针旋至弹起状态，将电源插头接入接地良好的三孔电源插座，插入钥匙并顺时针旋转90°至开启状态，此时，仪器整机通电运转，进入开机界面。</p>
+  </body>
+</topic>

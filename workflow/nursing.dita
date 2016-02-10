@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="workflow.nursing">
+  <title>术后护理</title>
+  <body>
+    <ol>
+      <li>
+        <p>术后即刻使用修复面膜，前7天连续使用。</p>
+      </li>
+      <li>
+        <p>术后积极防晒，进行日常防晒护理。</p>
+      </li>
+      <li>
+        <p>忌辛辣、发物、感光性的食物。</p>
+      </li>
+      <li>
+        <p>术后7天用净水洗脸。</p>
+      </li>
+      <li>
+        <p>术后随访是必须的：1天、3天、1周、3周、6周、3个月时应随访。</p>
+      </li>
+    </ol>
+  </body>
+</topic>

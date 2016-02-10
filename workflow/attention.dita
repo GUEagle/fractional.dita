@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="workflow.attention">
+  <title>注意事项</title>
+  <body>
+    <ol>
+      <li>
+        <p>治疗前必须将治疗部位的水分擦净，否则会影响治疗效果。</p>
+      </li>
+      <li>
+        <p>治疗时避免光斑过分重叠，造成瘢痕愈合。</p>
+      </li>
+      <li>
+        <p>搬动仪器时必须轻拿轻放，防止振动造成仪器出问题。</p>
+      </li>
+      <li>
+        <p>连续模式进行面部皮肤重建已经慢慢被淘汰，建议使用点阵模式进行治疗。</p>
+      </li>
+    </ol>
+  </body>
+</topic>

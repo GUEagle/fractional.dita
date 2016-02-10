@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="operation.ui.idle">
+  <title>开机等待界面</title>
+  <body>
+    <p>开机约10秒后会出现开机等待界面，如下图所示。</p>
+    <p>
+      <image href="media/image/operation.ui.idle.JPG"/>
+    </p>
+    <p>使用电脑图形发生器（CPG）进行治疗时，请点击美肤模式，使用连续治疗头时，请点击普通模式。</p>
+  </body>
+</topic>

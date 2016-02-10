@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="medical.contraindication">
+  <title>禁忌症</title>
+  <body>
+    <ol>
+      <li>
+        <p>曾进行化学剥脱术、磨削术及其它换肤术。</p>
+      </li>
+      <li>
+        <p>有糖尿病、瘢痕体质史。</p>
+      </li>
+      <li>
+        <p>精神异常。</p>
+      </li>
+      <li>
+        <p>有严重的系统性疾病。</p>
+      </li>
+      <li>
+        <p>近期内使用维甲酸药物。</p>
+      </li>
+      <li>
+        <p>不愿意术后进行防晒及接受磨削术风险等。</p>
+      </li>
+    </ol>
+    <p>以上患者需要暂缓或不宜接受治疗。</p>
+  </body>
+</topic>

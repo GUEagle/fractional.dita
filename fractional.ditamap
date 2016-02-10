@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN"
+ "http://docs.oasis-open.org/dita/v1.1/OS/dtd/bookmap.dtd">
+<bookmap id="fractional">
+    <booktitle>
+        <mainbooktitle>点靓系列CO2点阵激光美容仪使用说明书</mainbooktitle>
+    </booktitle>
+    <chapter href="introduction.dita">
+        <topicref href="introduction/instrument.dita"/>
+        <topicref href="introduction/cpg.dita"/>
+        <topicref href="introduction/feature.dita"/>
+    </chapter>
+    <chapter href="setup.dita">
+        <topicref href="setup/check.dita"/>
+        <topicref href="setup/setup.dita"/>
+        <topicref href="setup/attention.dita"/>
+    </chapter>
+    <chapter href="medical.dita">
+        <topicref href="medical/principle.dita"/>
+        <topicref href="medical/usage.dita"/>
+        <topicref href="medical/contraindication.dita"/>
+    </chapter>
+    <chapter href="operation.dita">
+        <topicref href="operation/poweron.dita"/>
+        <topicref href="operation/ui.dita">
+            <topicref href="operation/ui/ui.idle.dita"/>
+            <topicref href="operation/ui/ui.cpg.dita"/>
+            <topicref href="operation/ui/ui.general.dita"/>
+        </topicref>
+    </chapter>
+    <chapter href="workflow.dita">
+        <topicref href="workflow/prework.dita"/>
+        <topicref href="workflow/work.dita">
+            <topicref href="workflow/work/work.pigmented.dita"/>
+            <topicref href="workflow/work/work.wrinkle.dita"/>
+            <topicref href="workflow/work/work.hyperplastic.dita"/>
+        </topicref>
+        <topicref href="workflow/nursing.dita"/>
+        <topicref href="workflow/postwork.dita"/>
+        <topicref href="workflow/attention.dita"/>
+    </chapter>
+    <chapter href="specification.dita"/>
+    <chapter href="keep.dita"/>
+    <chapter href="maintenance.dita"/>
+</bookmap>
