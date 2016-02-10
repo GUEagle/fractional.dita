@@ -2,4 +2,62 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
 <topic id="specification">
   <title>规格参数</title>
+  <body>
+    <table>
+      <tgroup cols="2">
+        <colspec colnum="1" colwidth="1*"/>
+        <colspec colnum="2" colwidth="3*"/>
+        <tbody>
+          <row>
+            <entry align="center">工作电压</entry>
+            <entry align="center">AC220V±5%/50Hz</entry>
+          </row>
+          <row>
+            <entry align="center">导光系统</entry>
+            <entry align="center">7节关节臂</entry>
+          </row>
+          <row>
+            <entry align="center">激光波长</entry>
+            <entry align="center">10600nm</entry>
+          </row>
+          <row>
+            <entry align="center">焦斑直径</entry>
+            <entry align="center">0.1mm</entry>
+          </row>
+          <row>
+            <entry align="center">组合图形</entry>
+            <entry align="center">三角形/正方形/长方形/圆形/椭圆形/六边形/直线</entry>
+          </row>
+          <row>
+            <entry align="center">图形面积</entry>
+            <entry align="center">(0.1-20) x (0.1-20) mm2</entry>
+          </row>
+          <row>
+            <entry align="center">指示光波长</entry>
+            <entry align="center">635nm</entry>
+          </row>
+          <row>
+            <entry align="center">指示光功率</entry>
+            <entry align="center">≤5mW</entry>
+          </row>
+          <row>
+            <entry align="center">输出方式</entry>
+            <entry align="center">点阵/连续</entry>
+          </row>
+          <row>
+            <entry align="center">扫描顺序</entry>
+            <entry align="center">无序/顺序/中分</entry>
+          </row>
+          <row>
+            <entry align="center">脉冲宽度</entry>
+            <entry align="center">0.1-10ms</entry>
+          </row>
+          <row>
+            <entry align="center">制冷系统</entry>
+            <entry align="center">风冷</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
 </topic>
